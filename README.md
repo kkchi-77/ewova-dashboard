@@ -103,7 +103,7 @@ npm run dev
 
 ## 關聯專案
 
-- [EWova API 文件](https://github.com/your-username/ewova-learning-api-docs) — 互動式 API 文件 + Mock Server
+- [EWova API 文件](https://github.com/kkchi-77/ewova-learning-api-docs) — 互動式 API 文件 + Mock Server
 
 ## 關於 EWova
 
